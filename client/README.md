@@ -1,6 +1,6 @@
 # Monitered Website
 
-This is a Node.js server that serves a website the number of people currently viewing the said website. The server is built using Express.
+This is a Node.js server that serves a website that shows the number of people currently viewing the said website. The server is built using Express.
 
 ## Features
 
